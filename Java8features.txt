@@ -8,5 +8,4 @@ Here are the main Java 8 features:
 6. Nashorn JavaScript Engine
 7. Collectors and Parallel Streams
 8. StringJoiner
-9. Base64 Encoding and Decoding
-10. Improvements in Collections API
+
