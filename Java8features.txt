@@ -1,0 +1,12 @@
+Here are the main Java 8 features:
+
+1. Lambda Expressions
+2. Functional Interfaces and Default Methods
+3. Streams API
+4. Optional
+5. New Date and Time API (`java. Time`)
+6. Nashorn JavaScript Engine
+7. Collectors and Parallel Streams
+8. StringJoiner
+9. Base64 Encoding and Decoding
+10. Improvements in Collections API
